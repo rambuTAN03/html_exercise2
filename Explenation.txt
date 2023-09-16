@@ -1,0 +1,7 @@
+My plan for the wireframe is there will be a menu for the side. It has 6 options:
+Options, search, mail, adding income (i am using arrow up for now as the same with
+adding expnences),  adding expenses, and your profile for updating personal
+details. Then it also shows your current balance, income, and expences, it focus largely
+on the balance so the person knows how much money they have left. And lastly we
+have a chart for Income and expenses in order and is filtered by month. And in
+the last box will show you the latest expenses.
